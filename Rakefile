@@ -7,7 +7,7 @@ require "bourbon"
 
 # Change your GitHub reponame
 GITHUB_REPONAME = "AhmedIbrahimMohamedAli/end2end"
-GITHUB_REPO_BRANCH = "master"
+GITHUB_REPO_BRANCH = "gh-pages"
 
 SOURCE = "source/"
 DEST = "_site"
