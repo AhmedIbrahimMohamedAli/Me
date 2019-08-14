@@ -6,8 +6,8 @@ pagination:
 
 <section class="post-list">
   {% for post in paginator.posts %}
-    {% include _includes/article.html %}
+    {% include ./source/_includes/article.html %}
   {% endfor %}
 
-  {% include _includes/pagination.html %}
+  {% include ./source/_includes/pagination.html %}
 </section>
