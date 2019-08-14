@@ -25,9 +25,9 @@ url: http://nandomoreira.me
 baseurl: "/end2end"
 
 google_analytics: UA-52446115-1
-repo: http://github.com/nandomoreirame/end2end
-disqus_shortname: "nandothemes"
-disqus_site_shortname: "nandothemes"
+repo: http://github.com/AhmedIbrahimMohamedAli/end2end
+disqus_shortname: "end2end"
+disqus_site_shortname: "end2end"
 
 # Author settings
 author:
