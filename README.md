@@ -1,4 +1,4 @@
-# end2end Clean Jekyll theme [![Build Status](https://travis-ci.org/nandomoreirame/end2end.svg?branch=master)](https://travis-ci.org/nandomoreirame/end2end)
+# end2end Clean Jekyll theme [![Build Status](https://travis-ci.org/AhmedIbrahimMohamedAli/end2end.svg?branch=master)](https://travis-ci.org/AhmedIbrahimMohamedAli/end2end)
 
 
 
@@ -17,7 +17,7 @@
 
 ### Start in 4 steps
 
-1. Download or clone repo `git clone git@github.com:nandomoreirame/end2end.git`
+1. Download or clone repo `git clone git@github.com:AhmedIbrahimMohamedAli/end2end.git`
 2. Enter the folder: `cd end2end/`
 3. Install Ruby gems: `bundle install`
 4. Start Jekyll server: `bundle exec jekyll serve`
@@ -40,8 +40,8 @@ Access, [localhost:4000/end2end](http://localhost:4000/end2end)
 
 ### Demo and Download
 
-[Demo](https://nandomoreirame.github.io/end2end/)
-[Download](https://github.com/nandomoreirame/end2end/archive/master.zip)
+[Demo](https://AhmedIbrahimMohamedAli.github.io/end2end/)
+[Download](https://github.com/AhmedIbrahimMohamedAli/end2end/archive/master.zip)
 
 ![end2end - free Jekyll theme](/screenshot.png)
 
